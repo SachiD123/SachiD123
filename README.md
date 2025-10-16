@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sachini!!.
+# 👋 Hi, I'm Sachini!!
 
 🚀 **Data Analyst | Power BI Developer | Machine Learning Enthusiast**
 
