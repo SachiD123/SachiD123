@@ -18,8 +18,8 @@ My goal is to bridge data with decision-making — whether it’s through dashbo
 **Languages:** Python | SQL | R  
 **Visualization:** Power BI | Matplotlib | Seaborn  
 **Machine Learning:** scikit-learn | pandas | NumPy  
-**Data Engineering:** Microsoft Fabric | Dataflows | ETL  
-**Other:** Git | Jupyter | DAX | Power Query  
+**Data Engineering:** Microsoft Fabric | Dataflows | ETL 
+**Documentation and version control:** Git | Draw.io
 
 ---
 
@@ -31,7 +31,7 @@ My goal is to bridge data with decision-making — whether it’s through dashbo
 ---
 
 ### 🌐 Connect With Me
-[LinkedIn](#) • [Medium]((https://medium.com/@sachinidjayawardena) • [YouTube](#) • [Instagram](#)
+[LinkedIn](#) • [Medium](https://medium.com/@sachinidjayawardena) • [YouTube](#) • [Instagram](#)
 
 ---
 
