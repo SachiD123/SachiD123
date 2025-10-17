@@ -1,38 +1,43 @@
-# 👋 Hi, I'm Sachini!!
+<p align="center">
+  <img src="banner.png" alt="Sachini D - Data Analytics | Power BI | ML" width="100%">
+</p>
 
+# 👋 Hi, I'm Sachini
 🚀 **Data Analyst | Power BI Developer | Machine Learning Enthusiast**
-
-I transform data into actionable business insights through **Analytics, Visualization, and Machine Learning**.  
-My goal is to bridge data with decision-making — whether it’s through dashboards, predictive models, or end-to-end data pipelines.
-
----
-
-### 💡 Current Focus
-- **ForecastPro-BI:** Sales forecasting using Power BI & ML  
-- **Customer Churn ML:** Predicting customer retention risk  
-- **Fabric Data Warehouse:** Medallion architecture implementation with Microsoft Fabric  
 
 ---
 
 ### 🧰 Tech Toolbox
-**Languages:** Python | SQL | R  
-**Visualization:** Power BI | Matplotlib | Seaborn  
-**Machine Learning:** scikit-learn | pandas | NumPy  
-**Data Engineering:** Microsoft Fabric | Dataflows | ETL 
-**Documentation and version control:** Git | Draw.io
 
----
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+</p>
 
-### 🧠 What I’m Building
-📊 **[data-portfolio](https://github.com/SachiD123/sachini-data-portfolio)** – A collection of BI and ML projects showing business-driven analytics solutions.  
-📝 I also write about data projects and analytics strategies on [Medium](https://medium.com/me/stories?tab=posts-published).  
-🎥 I share dashboard tutorials and data storytelling content on [YouTube](#).
+<p align="center">
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Visualization -->
+  <img src="https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
 
 ---
 
 ### 🌐 Connect With Me
-[LinkedIn](#) • [Medium](https://medium.com/@sachinidjayawardena) • [YouTube](#) • [Instagram](#)
 
----
-
-> “Every data whispers into thin air needs a voice”
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@yourprofile"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://instagram.com/yourprofile"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
