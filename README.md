@@ -70,4 +70,5 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/sachini-jayawardena/">
+  <a href="https://medium.com/@sachinidjayawardena">
