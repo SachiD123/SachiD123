@@ -5,10 +5,6 @@
 <h1 align="center"> Hi, I'm Sachini</h1>
 <h3 align="center"> Data Analyst | Data Science and Machine Learning Enthusiast</h3>
 
-<p align="center">
-  Turning raw data into stories that drive smarter business decisions
-</p>
-
 ---
 
 ### Tech Toolbox
