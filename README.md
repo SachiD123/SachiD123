@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Sachini</h1>
-<h3 align="center">🚀 Data Analyst | Power BI Developer | Machine Learning Enthusiast</h3>
+<h3 align="center">🚀 Data Analyst | Data Science and Machine Learning Enthusiast</h3>
 
 <p align="center">
   Turning raw data into stories that drive smarter business decisions
@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
 
@@ -55,20 +55,25 @@
   <b>📊 ForecastPro-BI:</b> Sales forecasting dashboard with ML model integration.<br>
   <b>🚖 Ride-hailing BI:</b> Power BI case study on driver, region, and trip KPIs.<br>
   <b>🔮 Customer Churn ML:</b> Predicting retention risk using classification models.<br>
-  <b>🏗️ Fabric Data Warehouse:</b> Medallion architecture design using Microsoft Fabric.
+  <b>🏗️ Data Warehouse:</b> Medallion architecture design using Microsoft Fabric.
 </p>
 
 ---
+### 💡 About Me
+- 🎓 Masters in Data Analytics 
+- 💼 Experienced in ETL,Data warehousing and BI solutions
+- 🧠 Exploring Machine Learning & Predictive Analytics  
+- 🪴 Building data products and dashboards that tell stories  
 
 ### 🧠 Current Focus
 - Building business-driven ML + BI projects  
 - Publishing tutorials and case studies on Medium  
-- Expanding my Power BI dashboard kit collection for freelancers  
 
 ---
 
-### 🌐 Connect With Me
-
+### 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/sachini-jayawardena/">
-  <a href="https://medium.com/@sachinidjayawardena">
+  <a href="https://www.linkedin.com/in/sachini-jayawardena"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sachinidjayawardena@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://medium.com/@sachinidjayawardena><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+</p>
