@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.canva.com/brand/brand-templates/EAG2HG5fQQ0" alt="Sachini D - Data Analytics | Power BI | ML" width="100%">
+  <img src="https://github.com/SachiD123/SachiD123/tree/main/assets/brand banner.png" alt="Sachini D - Data Analytics | Power BI | ML" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm Sachini D.</h1>
