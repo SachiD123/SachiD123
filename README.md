@@ -6,6 +6,13 @@
 <h3 align="center"> Data Analyst | Data Science and Machine Learning Enthusiast</h3>
 
 ---
+### Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/sachini-jayawardena"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sachinidjayawardena@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://medium.com/@sachinidjayawardena"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+</p>
+---
 
 ### Tech Toolbox
 
@@ -65,11 +72,3 @@
 - Building business-driven ML + BI projects  
 - Publishing tutorials and case studies on Medium  
 
----
-
-### Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/sachini-jayawardena"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sachinidjayawardena@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://medium.com/@sachinidjayawardena"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-</p>
