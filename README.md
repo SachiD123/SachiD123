@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/SachiD123/SachiD123/tree/main/assets/brand banner.png" alt="Sachini D - Data Analytics | Power BI | ML" width="100%">
+  <img src="https://raw.githubusercontent.com/SachiD123/SachiD123/main/assets/brand%20banner.png" 
+  " width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm Sachini D.</h1>
