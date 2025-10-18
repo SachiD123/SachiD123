@@ -3,7 +3,7 @@
   width="100%">
 </p>
 
-<h1 align="center">👋 Hi, I'm Sachini D.</h1>
+<h1 align="center">👋 Hi, I'm Sachini</h1>
 <h3 align="center">🚀 Data Analyst | Power BI Developer | Machine Learning Enthusiast</h3>
 
 <p align="center">
