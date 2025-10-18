@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/Customer--Churn--ML-9C27B0?style=for-the-badge&logo=python&logoColor=white" alt="Customer Churn ML" />
   </a>
   <a href="https://github.com/SachiD123/SQL-Data-Warehouse-Project">
-    <img src="https://img.shields.io/badge/Fabric--DataWarehouse-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Fabric Data Warehouse" />
+    <img src="https://img.shields.io/badge/Data Warehouse-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Data Warehouse" />
   </a>
 </p>
 
@@ -61,7 +61,7 @@
 ---
 ### 💡 About Me
 - 🎓 Masters in Data Analytics 
-- 💼 Experienced in ETL,Data warehousing and BI solutions
+- 💼 Experienced in ETL,Data Warehousing and BI solutions
 - 🧠 Exploring Machine Learning & Predictive Analytics  
 - 🪴 Building data products and dashboards that tell stories  
 
