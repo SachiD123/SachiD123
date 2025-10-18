@@ -37,7 +37,7 @@
 ### Featured Projects
 
 <p align="center">
-  <a href="https://github.com/SachiD123/ForecastPro-BI">
+  <a href="https://github.com/SachiD123/-ForecastPro-BI">
     <img src="https://img.shields.io/badge/ForecastPro--BI-FFB703?style=for-the-badge&logo=powerbi&logoColor=black" alt="ForecastPro-BI" />
   </a>
   <a href="https://github.com/SachiD123/Ride-hailing-BI-case-study">
