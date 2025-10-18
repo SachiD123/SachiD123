@@ -1,22 +1,17 @@
 <p align="center">
-  <img src="https://github.com/SachiD123/SachiD123/blob/main/assets/brand%20banner.png" 
-  width="100%">
+  <img src="https://raw.githubusercontent.com/SachiD123/SachiD123/main/assets/brand-banner.png" width="100%">
 </p>
 
-<h1 align="center">👋 Hi, I'm Sachini</h1>
-<h3 align="center">🚀 Data Analyst | Power BI Developer | Machine Learning Enthusiast</h3>
-
-<p align="center">
-  Turning raw data into stories that drive smarter business decisions
-</p>
+<h1 align="center"> Hi, I'm Sachini</h1>
+<h3 align="center"> Data Analyst | Data Science and Machine Learning Enthusiast</h3>
 
 ---
 
-### 🧰 Tech Toolbox
+### Tech Toolbox
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
 
@@ -35,10 +30,10 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <p align="center">
-  <a href="https://github.com/SachiD123/ForecastPro-BI">
+  <a href="https://github.com/SachiD123/-ForecastPro-BI">
     <img src="https://img.shields.io/badge/ForecastPro--BI-FFB703?style=for-the-badge&logo=powerbi&logoColor=black" alt="ForecastPro-BI" />
   </a>
   <a href="https://github.com/SachiD123/Ride-hailing-BI-case-study">
@@ -48,7 +43,7 @@
     <img src="https://img.shields.io/badge/Customer--Churn--ML-9C27B0?style=for-the-badge&logo=python&logoColor=white" alt="Customer Churn ML" />
   </a>
   <a href="https://github.com/SachiD123/SQL-Data-Warehouse-Project">
-    <img src="https://img.shields.io/badge/Fabric--DataWarehouse-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Fabric Data Warehouse" />
+    <img src="https://img.shields.io/badge/Data Warehouse-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Data Warehouse" />
   </a>
 </p>
 
@@ -56,20 +51,25 @@
   <b>📊 ForecastPro-BI:</b> Sales forecasting dashboard with ML model integration.<br>
   <b>🚖 Ride-hailing BI:</b> Power BI case study on driver, region, and trip KPIs.<br>
   <b>🔮 Customer Churn ML:</b> Predicting retention risk using classification models.<br>
-  <b>🏗️ Fabric Data Warehouse:</b> Medallion architecture design using Microsoft Fabric.
+  <b>🏗️ Data Warehouse:</b> Medallion architecture design using Microsoft Fabric.
 </p>
 
 ---
+### About Me
+- 🎓 Masters in Data Analytics 
+- 💼 Experienced in ETL,Data Warehousing and BI solutions
+- 🧠 Exploring Machine Learning & Predictive Analytics  
+- 🪴 Building data products and dashboards that tell stories  
 
-### 🧠 Current Focus
+### Current Focus
 - Building business-driven ML + BI projects  
 - Publishing tutorials and case studies on Medium  
-- Expanding my Power BI dashboard kit collection for freelancers  
 
 ---
 
-### 🌐 Connect With Me
-
+### Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/sachini-jayawardena/">
-  <a href="https://medium.com/@sachinidjayawardena">
+  <a href="https://www.linkedin.com/in/sachini-jayawardena"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sachinidjayawardena@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://medium.com/@sachinidjayawardena"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+</p>
